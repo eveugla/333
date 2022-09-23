@@ -23,3 +23,6 @@
 # Фото Котика
 ![картинка с котиком](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYuanYTxxSHP8tIgVAyBFZ3rUGGVJJaAipIA&usqp=CAU)
 
+---
+# Видео с котиком
+[![видео с котиком](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_4Wam8mCh2dzCJ9Ho1kfKoi56j3Cy9o99w&usqp=CAU)](https://www.youtube.com/watch?v=6D7l6LfbH_M)
